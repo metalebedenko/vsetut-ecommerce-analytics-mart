@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local env
+.env
+*.local
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Python cache (if helper scripts appear)
+__pycache__/
+
+# SQL dumps / temp exports
+*.dump
+*.sql.tmp
